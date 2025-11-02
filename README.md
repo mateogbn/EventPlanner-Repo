@@ -13,3 +13,6 @@
 
 ![Logo del proyecto](documentos/imagenes/logo.jpg)
 
+- rocio
+- leandro
+- mateo
